@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/napucheng/Data/AI2025/ROBOVISION/Task3/build",
+  "command": "/usr/bin/c++ -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -g -O2 -Wall -std=gnu++11 -o CMakeFiles/projectile_tracking.dir/main.cpp.o -c /media/napucheng/Data/AI2025/ROBOVISION/Task3/main.cpp",
+  "file": "/media/napucheng/Data/AI2025/ROBOVISION/Task3/main.cpp"
+}
+]

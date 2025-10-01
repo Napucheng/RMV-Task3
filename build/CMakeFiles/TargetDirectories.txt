@@ -1,0 +1,3 @@
+/media/napucheng/Data/AI2025/ROBOVISION/Task3/build/CMakeFiles/projectile_tracking.dir
+/media/napucheng/Data/AI2025/ROBOVISION/Task3/build/CMakeFiles/edit_cache.dir
+/media/napucheng/Data/AI2025/ROBOVISION/Task3/build/CMakeFiles/rebuild_cache.dir

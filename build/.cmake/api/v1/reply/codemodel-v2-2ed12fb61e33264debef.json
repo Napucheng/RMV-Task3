@@ -1,0 +1,18 @@
+{
+    "name": "ms.core",
+    "version": "3.2.13",
+    "ext": {
+        "@gbl.js": {
+            "file": "ms.core.gbl.js",
+            "type": "text/javascript; charset=utf-8",
+            "integrity": "sha256-BwR6jNrPGXc18+9IHo5jDnPlqKkL5ChEMk+QY6h//mE= sha384-Nj/STc7XPBTlIhiybRZzF7LNzXC0KJP0sXL+645GID3l/6KEQTbIdoF0yVMeLyrc sha512-XMYRVgzSdybr4gkAfeO5cpKcDdFMPfb4LoyxOvMYN4OXHO754GB1Ihas59F+GSFCZnY1p73TZd094gC/oxN6Sw==",
+            "hashes": {
+                "sha256": "BwR6jNrPGXc18+9IHo5jDnPlqKkL5ChEMk+QY6h//mE=",
+                "sha384": "Nj/STc7XPBTlIhiybRZzF7LNzXC0KJP0sXL+645GID3l/6KEQTbIdoF0yVMeLyrc",
+                "sha512": "XMYRVgzSdybr4gkAfeO5cpKcDdFMPfb4LoyxOvMYN4OXHO754GB1Ihas59F+GSFCZnY1p73TZd094gC/oxN6Sw=="
+            }
+        },
+        "@gbl.min.js": {
+            "file": "ms.core.gbl.min.js",
+            "type": "text/javascript; charset=utf-8",
+            "integrity": "sha256-3hFJEJamdjnwJYtZI+xTx/MHkftniWPAsFQvlyNh1eU= sha384-d1vX4ayrjC6szMmzIEUpTdLCnaOxTjupsnSe6HxX1
